@@ -1,0 +1,11 @@
+{
+  "users":[{
+    "id":1,
+    "name":"ketan mohite",
+    "age":"23",
+    "dob":"28-01-1999",
+    "state":"maharashtra",
+    "address":"pune",
+    "pin":"411033"
+  }]
+}
